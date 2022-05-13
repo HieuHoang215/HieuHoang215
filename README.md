@@ -4,7 +4,7 @@
 - 👨🏻‍🎓 Hoàng Minh Hiếu
 - 🔖 21520232
 - 📅 21-05-2003 
-- 📖 Computer Science 
+- 📖 Computer Science - Artificial Intelligence
 - 📚 First-year student 
 - 🏫 University of Information Technology VNU-HCM 
 ---
