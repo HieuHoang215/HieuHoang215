@@ -32,10 +32,6 @@
  - 📓 at the age of 18, i would like to learn as much as possible in soft and hard skills.📈
  -  “Listen with curiosity. Speak with honesty. Act with integrity. The greatest problem with communication is we don’t listen to understand. We listen to reply. When we listen with curiosity, we don’t listen with the intent to reply. We listen for what’s behind the words.” ― Roy T. Bennett
  ---
- Office computer skills: 
- - Word        <img width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/128/word.png" alt="CSS3" border="0" />
- - Excel       <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="CSS3" border="0" />
- - Powerpoint  <img width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/powerpoint.png" alt="CSS3" border="0" />
 
 > contact for work
 <a href="https://www.facebook.com/BEON.2003">
