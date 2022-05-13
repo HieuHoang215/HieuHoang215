@@ -19,6 +19,8 @@
  ---
 **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
  <img align="right" width="300px" alt="GIF" src="https://static3.srcdn.com/wordpress/wp-content/uploads/2020/10/Among-Us-Desktop-Wallpaper-Backgrounds-ExCharny-Realistic.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" />
+ - 📒 Proficiency in English 📒
+ - 📒 Data Structure and Algorithm 📒
  - 👋🏻 Hi there, i'm Hieu and i'm a freshman.🎇
  - 💻 I'm studying programming languages and my deparment is computer science.⌨
  - 🔬 As a laborious student, i'm interested in learning science especially in astronomy.👨🏻‍🚀
