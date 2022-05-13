@@ -11,7 +11,7 @@
 **_✨ LEARNING ROUTES ✨_** 
 - In the process of: 
   - <img width="92px" src="https://i.ibb.co/cD7rgYW/readme-logo-C.png" border="0" />
-  - scientific research about Query Subjects 👨🏻‍💻 
+  - 👨🏻‍💻 scientific research about Query Subjects 👨🏻‍💻 
   - 📒 Proficiency in English 📒
   - 📒 Data Structure and Algorithm 📒
   
