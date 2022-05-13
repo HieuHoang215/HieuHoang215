@@ -14,9 +14,9 @@
   - 👨🏻‍💻 scientific research about Query Subjects 👨🏻‍💻 
   - 📒 Proficiency in English 📒
   - 📒 Data Structure and Algorithm 📒
-  - Office computer skills: <img width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/128/word.png" alt="CSS3" border="0" />
-        <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="CSS3" border="0" />
-         <img width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/powerpoint.png" alt="CSS3" border="0" />
+  - Office computer skills: <img width="30px" src="https://findicons.com/files/icons/2795/office_2013_hd/128/word.png" alt="CSS3" border="0" />
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="CSS3" border="0" />
+         <img width="30px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/powerpoint.png" alt="CSS3" border="0" />
   
 - Incipient period: \
   <img width="100px" src="https://i.ibb.co/MDHTKhG/Python3.png" alt="Python3" border="0" />
