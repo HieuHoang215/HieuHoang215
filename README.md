@@ -25,7 +25,7 @@
 **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
  <img align="right" width="300px" alt="GIF" src="https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/280181215_719504762805272_74754373763150054_n.png?_nc_cat=100&ccb=1-6&_nc_sid=ae9488&_nc_ohc=j9u8fWrE9KsAX-4l8JF&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJmZAevfdMTH6FOdMTUNmFVxS2NfQAYNJcm_VIC46j-DQ&oe=62A3F219" />
  - 💻 I'm studying programming languages and my deparment is computer science.⌨
- - 👀 Team collaboration is very important and i always try to work effectively with everyone.👌🏻
+ - 👀 Team collaboration is very important and i always strive to work effectively with everyone.👌🏻
  - 📓 at the age of 18, i would like to learn as much as possible in soft and hard skills.📈
  -  “Listen with curiosity. Speak with honesty. Act with integrity. The greatest problem with communication is we don’t listen to understand. We listen to reply. When we listen with curiosity, we don’t listen with the intent to reply. We listen for what’s behind the words.” ― Roy T. Bennett
  ---
