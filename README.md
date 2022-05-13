@@ -21,7 +21,7 @@
   <img width="115px" src="https://i.ibb.co/LCd3gKM/Javascript.png" alt="Javascript" border="0" />
  ---
 **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
- <img align="right" width="300px" alt="GIF" src="https://static3.srcdn.com/wordpress/wp-content/uploads/2020/10/Among-Us-Desktop-Wallpaper-Backgrounds-ExCharny-Realistic.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" />
+ <img align="right" width="300px" alt="GIF" src="https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/280181215_719504762805272_74754373763150054_n.png?_nc_cat=100&ccb=1-6&_nc_sid=ae9488&_nc_ohc=j9u8fWrE9KsAX-4l8JF&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJmZAevfdMTH6FOdMTUNmFVxS2NfQAYNJcm_VIC46j-DQ&oe=62A3F219" />
  
  - 📒 Proficiency in English 📒
  - 📒 Data Structure and Algorithm 📒
