@@ -9,7 +9,7 @@
 - 🏫 University of Information Technology VNU-HCM 
 ---
 **_✨ LEARNING ROUTES ✨_** 
-- In the process of: \
+- In the process of: 
   - <img width="92px" src="https://i.ibb.co/cD7rgYW/readme-logo-C.png" border="0" />
   - <img width="108px" src="https://i.ibb.co/Gs13k6v/HTML5.png" alt="HTML5" border="0" />
   - <img width="92px" src="https://i.ibb.co/WWjW9Xm/CSS3.png" alt="CSS3" border="0" />
