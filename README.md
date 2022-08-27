@@ -26,7 +26,7 @@
   
  ---
 **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
- <img align="right" width="300px" alt="GIF" src="https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/280181215_719504762805272_74754373763150054_n.png?_nc_cat=100&ccb=1-6&_nc_sid=ae9488&_nc_ohc=j9u8fWrE9KsAX-4l8JF&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJmZAevfdMTH6FOdMTUNmFVxS2NfQAYNJcm_VIC46j-DQ&oe=62A3F219" />
+ <img align="right" width="300px" alt="GIF" src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.15752-9/258548187_1605643263101547_7556897433942858326_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ZoJTp44p9vYAX-Jve4t&tn=um99CzOHVVVolrAQ&_nc_ht=scontent.fsgn8-2.fna&oh=03_AVLex-SjWtuW_MoLZeVIhtoEiQ3KC3PkV4mRf1qn8IBTAw&oe=632F5021" />
  - 💻 I'm studying programming languages and my deparment is computer science.⌨
  - 👀 Team collaboration is very important and i always strive to work effectively with everyone.👌🏻
  - 📓 at the age of 18, i would like to learn as much as possible in soft and hard skills.📈
