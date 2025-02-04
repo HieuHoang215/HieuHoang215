@@ -19,10 +19,7 @@
         <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="CSS3" border="0" />
          <img width="30px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/powerpoint.png" alt="CSS3" border="0" />
   
-- Incipient period: \
-  <img width="115px" src="https://i.ibb.co/LCd3gKM/Javascript.png" alt="Javascript" border="0" />
-  <img width="108px" src="https://i.ibb.co/Gs13k6v/HTML5.png" alt="HTML5" border="0" />
-  <img width="92px" src="https://i.ibb.co/WWjW9Xm/CSS3.png" alt="CSS3" border="0" />
+
   
  ---
 **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
