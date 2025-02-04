@@ -5,7 +5,6 @@
 - 🔖 21520232
 - 📅 21-05-2003 
 - 📖 Computer Science - Artificial Intelligence
-- 📚 Sophomore 
 - 🏫 University of Information Technology VNU-HCM 
 ---
 **_✨ LEARNING ROUTES ✨_** 
