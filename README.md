@@ -4,17 +4,10 @@
 - 👨🏻‍🎓 Hoàng Minh Hiếu
 - 🔖 21520232
 - 📅 21-05-2003 
-- 📖 Computer Science - Artificial Intelligence
-- 🏫 University of Information Technology VNU-HCM 
-
+- 🏫 University of Information Technology VNU-HCM: Bachelor of Computer Science - Artificial Intelligence
+- 🏫 National University of Singapore NUS: Master of Science in Data Science and Machine Learning (expected Dec 2026)
 > contact for work
-<a href="https://www.facebook.com/BEON.2003">
-  <img align="left" alt="facebook" width="25px" src="https://img.icons8.com/fluency/240/000000/facebook-new.png" />
-</a>
-<a href="https://www.instagram.com/hieuhector0521/">
-  <img align="left" alt="instagram" width="25px" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" />
-</a>
-<a href="21520232@gm.uit.edu.vn">
+<a href="hieuhm2153@gmail.com">
   <img align="left" alt="gmail" width="25px" src="https://img.icons8.com/color/240/000000/gmail-new.png" />
 </a>
 
